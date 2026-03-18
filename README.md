@@ -24,3 +24,5 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** to un
    git clone https://github.com/dineshyadav16/Hospitality-Analysis.git
    (https://github.com/dineshyadav16/Hospitality-Analysis.git)# Python-Data-Analysis-Project
 A Python based Exploratory Data Analysis (EDA) project using Pandas and Seaborn to uncover spending patterns and tipping behavior in hospitality datasets.
+<img width="1000" height="600" alt="bill_analysis" src="https://github.com/user-attachments/assets/c80e02a2-e099-44d6-b1b1-f2efc60a0a23" />
+[analysis.py](https://github.com/user-attachments/files/26073042/analysis.py)
